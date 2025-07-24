@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "name": "mandeep",
+      "service": "wifi",
+      "contact": "9817029229"
+    },
+    {
+      "name": "mandeep",
+      "service": "plumber",
+      "contact": "9812389172"
+    }
+  ],
+  "bookings": [
+    {
+      "customer": "mandeep",
+      "service": "plumber",
+      "date": "2025-06-30"
+    }
+  ],
+  "feedback": []
+}
