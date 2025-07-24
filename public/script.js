@@ -1,4 +1,5 @@
-const API = "http://localhost:5000";
+const API = "/api";
+
 
 // Registration
 const regForm = document.getElementById("registerForm");
